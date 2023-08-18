@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{
+    background-color:aquamarine;
+    text-align: center;
+}
+
+p{ 
+    border-radius: 32px;
+    border: 2px solid;
+    background-color: white;
+    width: 40%;
+    margin-left: 30%;
+}
+
+
+.F1 { 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.F2 {
+    font-family: 'Roboto', serif;
+}
+
+.F3 {
+    font-family: 'Tilt Prism', cursive, sans-serif;
+}
+
+.F4 {
+    font-family: 'Dancing Script', cursive;
+}
+
+.F5 {
+    font-family: 'Pacifico', cursive;
+}
+
+.p1 { 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p2 {
+    font-family: 'Roboto', serif;
+}
+
+.p3 {
+    font-family: 'Tilt Prism', cursive, sans-serif;
+}
+
+.p4 {
+    font-family: 'Dancing Script', cursive;
+}
+
+.p5 {
+    font-family: 'Pacifico', cursive;
+}
