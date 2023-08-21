@@ -24,7 +24,7 @@ p{
 }
 
 .F3 {
-    font-family: 'Tilt Prism', cursive, sans-serif;
+    font-family: 'Tilt Prism', fantasy;
 }
 
 .F4 {
@@ -32,7 +32,7 @@ p{
 }
 
 .F5 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Pacifico', monospace;
 }
 
 .p1 { 
@@ -44,7 +44,7 @@ p{
 }
 
 .p3 {
-    font-family: 'Tilt Prism', cursive, sans-serif;
+    font-family: 'Tilt Prism', monospace;
 }
 
 .p4 {
@@ -52,5 +52,6 @@ p{
 }
 
 .p5 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Pacifico', fantasy;
+    
 }
