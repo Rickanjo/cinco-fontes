@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Tilt+Prism&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 body{
-    background-color:aquamarine;
+    background-color:darkred;
     text-align: center;
 }
 
@@ -53,5 +53,5 @@ p{
 
 .p5 {
     font-family: 'Pacifico', fantasy;
-    
+
 }
